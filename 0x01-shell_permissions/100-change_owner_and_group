@@ -1,2 +1,2 @@
 #!/bin/bash
-chwon -hR vincent sfaff .
+chown -hR vincent staff .
